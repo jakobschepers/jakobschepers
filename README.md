@@ -2,7 +2,7 @@
 
 I'm a Master's student in Informatics at the Technical University of Munich (TUM) with a professional background in full-stack development and process optimization from my dual-study program at Volkswagen AG.
 
-I am passionate about the intersection of **Artificial Intelligence, Software Engineering, and Digitalization**. My Bachelor's thesis, "**Automated Review Comment Generation through GPT-4O Fine-tuning**", allowed me to dive deep into the practical applications of large language models.
+I am passionate about the intersection of **Artificial Intelligence, Software Engineering, and Digitalization**. My Bachelor's thesis, "**Automated Review Comment Generation through GPT-4o Fine-tuning**", allowed me to dive deep into the practical applications of large language models.
 
 While much of my professional work was on internal tools, this profile is where I'll be showcasing my skills through public-facing projects.
 
@@ -24,8 +24,7 @@ Here are the primary technologies I have experience with from my professional wo
 
 * 🎓 Pursuing my M.Sc. Informatics at TUM.
 * 🤖 Exploring new projects in AI and software development.
-* Mentoring first-year Informatics students.
-* Volunteering with Experiment e.V. to organize international exchange programs.
+
 
 ---
 
