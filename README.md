@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Jakob Schepers 👋
 
-<!--
-**jakobschepers/jakobschepers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Informatics at the Technical University of Munich (TUM) with a professional background in full-stack development and process optimization from my dual-study program at Volkswagen AG.
 
-Here are some ideas to get you started:
+I am passionate about the intersection of **Artificial Intelligence, Software Engineering, and Digitalization**. My Bachelor's thesis, "**Automated Review Comment Generation through GPT-4O Fine-tuning**", allowed me to dive deep into the practical applications of large language models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While much of my professional work was on internal tools, this profile is where I'll be showcasing my skills through public-facing projects.
+
+---
+
+### 💻 My Technical Skillset
+
+Here are the primary technologies I have experience with from my professional work and academic projects:
+
+* **AI / Machine Learning:** Python, PyTorch, Hugging Face, Weights & Biases
+* **Application Development:** C#, Angular, SQL
+* **Cloud / Platforms:** Red Hat OpenShift Container Platform (OCP)
+* **Data & Automation:** VBA, Power Query
+* **Process Management:** SAP Signavio
+
+---
+
+### 🌱 What I'm Doing Now
+
+* 🎓 Pursuing my M.Sc. Informatics at TUM.
+* 🤖 Exploring new projects in AI and software development.
+* Mentoring first-year Informatics students.
+* Volunteering with Experiment e.V. to organize international exchange programs.
+
+---
+
+### 📫 How to Reach Me
+
+* **Email:** `jakob-schepers@web.de`
+* **LinkedIn:** [linkedin.com/in/jakob-schepers](https://www.linkedin.com/in/jakob-schepers)
