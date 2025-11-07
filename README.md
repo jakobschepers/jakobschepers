@@ -30,5 +30,5 @@ Here are the primary technologies I have experience with from my professional wo
 
 ### 📫 How to Reach Me
 
-* **Email:** `jakob-schepers@web.de`
+* **Email:** `jakob-schepers[at]web.de`
 * **LinkedIn:** [linkedin.com/in/jakob-schepers](https://www.linkedin.com/in/jakob-schepers)
